@@ -6,7 +6,7 @@
 
 Projeto 08 - SPACE CREAM construído na Jornada Explorer do Rocketseat.
 
-[👉Clique aqui para acessar](https://myllenaff.github.io/projeto08_SpaceCream/)
+[👉Clique aqui para acessar](https://myllenaff.github.io/Projeto08_SpaceCream/)
 
 ## 💻 Tecnologias:
 
