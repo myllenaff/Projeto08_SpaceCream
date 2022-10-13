@@ -1,12 +1,12 @@
 # Explorer - Desafio
 
-![preview](.github/preview_desafio08.png)
+![preview](.github/preview.gif)
 
 > Explorer - Rocketseat
 
 Projeto 08 - SPACE CREAM construído na Jornada Explorer do Rocketseat.
 
-[👉Clique aqui para acessar](https://myllenaff.github.io/projeto08_SpaceCream/)
+[👉Clique aqui para acessar](https://myllenaff.github.io/Projeto08_SpaceCream/)
 
 ## 💻 Tecnologias:
 
